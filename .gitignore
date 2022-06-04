@@ -9,7 +9,7 @@ make_requirements.ipynb
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+cache/
 # IPython
 profile_default/
 ipython_config.py
